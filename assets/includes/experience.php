@@ -55,23 +55,24 @@
 
                 <!-- Werkervaring Item 1 -->
                 <div class="timeline-card">
-                    <span class="timeline-date">2025 - Heden</span>
-                    <h4 class="timeline-card-title">[Jouw Functie, bijv. Junior Developer]</h4>
-                    <h5 class="timeline-card-subtitle">[Bedrijf / Organisatie]</h5>
+                    <span class="timeline-date">2024 - 2025</span>
+                    <h4 class="timeline-card-title">[ scooter bezorger]</h4>
+                    <h5 class="timeline-card-subtitle">[burger buisniss]</h5>
                     <p class="timeline-card-text">
-                        Beschrijf hier je werkzaamheden en verantwoordelijkheden. Welke talen en tools gebruik je
-                        dagelijks? Wat voor impact heb je gemaakt?
+                        ik heb hier geleerd hoe het is om met haast te werken in de horica sector
+                        en om goed te rijden op de weg.
                     </p>
                 </div>
 
                 <!-- Werkervaring Item 2 -->
                 <div class="timeline-card">
-                    <span class="timeline-date">2023 - 2025</span>
-                    <h4 class="timeline-card-title">[Vorige Functie, bijv. Stagiair Software Developer]</h4>
-                    <h5 class="timeline-card-subtitle">[Bedrijf / Organisatie]</h5>
+                    <span class="timeline-date">2022 - 2023</span>
+                    <h4 class="timeline-card-title">[vulpoegmedewerker ]</h4>
+                    <h5 class="timeline-card-subtitle">[albert heijn]</h5>
                     <p class="timeline-card-text">
-                        Beschrijf hier je ervaring uit je eerdere functie of stage. Welke projecten heb je afgerond en
-                        welke vaardigheden heb je hier opgedaan?
+                        bij de albert heijn moest ik er voor zorgen dat de padden goed gevuld waren en er goed
+                        gespeigeld uit zagen.
+                        daarnaast moest ik ook klanten helpen en opruimen.
                     </p>
                 </div>
 
